@@ -1,2 +1,2 @@
-# chatty-web
-an updates for chatty-chat.replit.app
+chatty
+this is where chatty service will be placed when it becomes opperational. 
